@@ -2,11 +2,11 @@
 
 A fully 3D, in-browser stadium where fans fly from an aerial view down to their exact seat. They see the real view from that seat before confirming a ticket. Live video screens play short football clips around the bowl, and the same experience runs on laptops and phones.
 
-This repository is a **showcase only**. It holds screenshots, the prompts used (plus ready-to-paste prompts to recreate it), how it was made, and pseudocode.
+This repository is a **showcase only**. It holds screenshots, ready-to-paste prompts to recreate it, how it was made, and pseudocode.
 
 | | |
 |---|---|
-| [Prompts](PROMPTS.md) | The prompts that shaped the project, in order, and step-by-step prompts to recreate it exactly |
+| [Prompts](PROMPTS.md) | Step-by-step prompts to recreate it exactly |
 | [How we made it](HOW-WE-MADE.md) | The build process, step by step |
 | [Pseudocode](PSEUDOCODE.md) | How the app works, in plain pseudocode |
 

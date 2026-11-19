@@ -1,83 +1,4 @@
-# Prompts
-
-This page has two parts:
-
-1. **[The prompts we used](#part-1-the-prompts-we-used)**: every prompt that shaped the project, in the order it was given.
-2. **[Recreate it exactly](#part-2-recreate-it-exactly)**: ready-to-paste prompts that rebuild the same site from scratch with an AI coding agent.
-
----
-
-## Part 1: The prompts we used
-
-The wording has been lightly cleaned up for readability. Short "continue" messages are left out.
-
-### 1. The brief
-
-> *(A screen recording of a reference 3D stadium seat-picker was attached.)*
->
-> We need to recreate this, 100% the same, with one extra feature: live screens in each area near the seats, where short clips from YouTube autoplay without pausing.
->
-> Recreate it exactly like the reference. You can use 3D assets for realism, or Three.js if it can achieve the same result, but I need all of the exact functionality shown.
-
-### 2. Realism
-
-> See the reference: it looks very real.
-
-> I still need much more realism.
-
-### 3. Theme change
-
-> The model has a football pitch, so change everything to football.
-
-### 4. Mobile and laptop
-
-> Fix the view on both mobile and laptop. The website should load fast and run smoothly from every perspective, on iOS, Android and every other case.
->
-> Handle mobile and laptop differently.
-
-> Do we need to show the video screens on every device, or is that not needed?
-
-### 5. Smoothness
-
-> I still feel lag on every phone, device and laptop. It should be very, very smooth. After a complete check, commit it to a strictly private repo and deploy it.
-
-> A black-screen glitch sometimes appears.
-
-### 6. Mobile quality
-
-> *(An iPhone screenshot was attached.)*
->
-> On mobile the 3D model looks very low quality. I need very high quality on mobile as well. Handle that.
-
-### 7. Release
-
-> Keep it high quality, smooth and without lag on all devices. Fix it, release it and deploy it.
-
-### 8. Preloader
-
-> For the preloader I need football motion graphics: next-level, creative animation.
-
-> I need a simple loader: only a ball in the middle with a logo animation. That's enough.
-
-> The ball should jump up and down, like this.
-
-### 9. Refresh button
-
-> I need a refresh button on screen. When I click it, it should start again from the beginning.
-
-> When I click refresh, it should start from the preloader.
-
-### 10. Colour grade
-
-> The colour needs fixing: increase the contrast and make it natural colour.
-
-> The colour should be enhanced. I mean it should be colour graded.
-
-> It should not look grey. Real colour, with strong greens and reds.
-
----
-
-## Part 2: Recreate it exactly
+# Prompts: recreate it exactly
 
 The prompts below rebuild the same site. Paste them into an AI coding agent such as Claude Code, one at a time and in this order. Check the result in a browser after each step before you send the next one.
 
@@ -168,5 +89,5 @@ The prompts below rebuild the same site. Paste them into an AI coding agent such
 
 **Tips**
 
-- If a step comes out wrong, attach a screenshot and describe what is off. Most of the prompts in Part 1 are exactly that kind of follow-up.
+- If a step comes out wrong, attach a screenshot and describe what is off.
 - Keep the agent testing on both a phone and a laptop screen size after every change. Smoothness problems usually show up on phones first.
